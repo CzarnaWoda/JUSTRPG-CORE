@@ -1,0 +1,9 @@
+weapons:
+  normalsword:
+    sword: WOODEN_SWORD
+    displayName: '&8->> &6Najzwyczajniejszy miecz na swiecie &8<<-'
+    lore:
+      - '&8->> &cSprawdz mnie'
+    damage: 0.5
+    lootChance: 1.0
+    attackSpeed: 0.8

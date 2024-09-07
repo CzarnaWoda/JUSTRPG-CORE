@@ -1,0 +1,6 @@
+name: JustRPGCore
+version: 1.0
+main: core.Main
+api-version: 1.13
+depend:
+  - JUSTRPG

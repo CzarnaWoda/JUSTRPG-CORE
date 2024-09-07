@@ -1,0 +1,10 @@
+armors:
+  thebest:
+    armorPiece: DIAMOND_HELMET
+    displayName: '&8>> &6Zbroja zlodzieja'
+    lore:
+      - '&8  * &7Zbroje wykul &6mistrz zlodzieji'
+    armor: 2.0
+    armorToughness: 4.0
+    movementSpeed: 0.1
+    health: 2.0
